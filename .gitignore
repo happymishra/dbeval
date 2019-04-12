@@ -1,0 +1,13 @@
+
+# Python
+*.pyc
+
+# Pycharm
+.idea/*
+
+ENV folder
+en/*
+
+# pid files
+*.pid
+git
